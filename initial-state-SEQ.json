@@ -1,0 +1,12 @@
+{
+  "ticker": "test",
+  "name": "test",
+  "settings": [
+    ["isTradeable", true],
+    ["communityLogo", "test"]
+  ],
+  "claimable": [],
+  "divisibility": 6,
+  "mint_contract": "",
+  "pile": []
+}
